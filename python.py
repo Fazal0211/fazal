@@ -1,1 +1,1 @@
-("hello world f4")
+print"hello world f4")
